@@ -6,7 +6,7 @@ node_js:
 jobs:
   include:
     - stage: release
-       script: skip
+      script: skip
       deploy:
         provider: script
         skip_cleanup: true
