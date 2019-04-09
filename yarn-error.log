@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js semantic-release
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js commit
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/mymac/go/bin:/usr/local/opt/go/libexec/bin:/Users/mymac/go/bin:/usr/local/opt/go/libexec/bin
